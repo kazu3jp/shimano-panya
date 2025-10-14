@@ -60021,7 +60021,7 @@ case 2:return A.N(null,r)}})
 return A.O($async$n2,r)},
 T(a){var s=null
 return A.aed(s,A.Es(B.d1,A.c([A.adT(0,!(A.cE(a,s,t.w).w.a.a>800)?A.a9r("assets/images/background.png",s,B.ih,s):B.em),A.aor(A.Nx(new A.i2(B.vA,new A.qE(new A.a47(this),s,s,t.rE),s),s,s),!0)],t.F),B.en))},
-QW(a){var s=null,r=t.N,q=A.aG(["choco_croissant","\u30c1\u30e7\u30b3\u30af\u30ed\u30ef\u30c3\u30b5\u30f3","batadeni","\u30d0\u30bf\u30fc\u30c7\u30cb\u30c3\u30b7\u30e5","mentai","\u660e\u592a\u30d1\u30f3","jagabata","\u3058\u3083\u304c\u30d0\u30bf","sausage","\u30bd\u30fc\u30bb\u30fc\u30b8","french","\u30d5\u30ec\u30f3\u30c1\u30c8\u30fc\u30b9\u30c8"],r,r)
+QW(a){var s=null,r=t.N,q=A.aG(["choco_croissant","\u30c1\u30e7\u30b3\u30af\u30ed\u30ef\u30c3\u30b5\u30f3","batadeni","\u30d0\u30bf\u30fc\u30c7\u30cb\u30c3\u30b7\u30e5","mentai","\u660e\u592a\u30d1\u30f3","jagabata","\u3058\u3083\u304c\u30d0\u30bf","yamitsuki","\u30bd\u30fc\u30bb\u30fc\u30b8","french","\u30d5\u30ec\u30f3\u30c1\u30c8\u30fc\u30b9\u30c8"],r,r)
 r=q.a
 return A.a8R(A.c([B.Du,new A.AH(1,B.jv,new A.B1(B.wy,new A.a_l(new A.a46(q,a.a),r,!0,!0,!0,s),B.jo,B.c9,!1,s,s,B.vh,!1,s,r,B.aH,s,s,B.an,B.ao,s),s)],t.F),B.be,B.cN)}}
 A.a49.prototype={

@@ -35,7 +35,7 @@ class BreadInventory {
       'batadeni': 'バターデニッシュ',
       'mentai': '明太パン',
       'jagabata': 'じゃがバタ',
-      'sausage': 'ソーセージ',
+      'yamitsuki': 'ソーセージ',
       'french': 'フレンチトースト',
     };
   }
